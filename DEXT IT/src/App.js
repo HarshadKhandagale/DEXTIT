@@ -8,7 +8,7 @@ import Card from "./pages/Card";
 
 const App = () => {
   return (
-    <div className="h-screen bg-zinc-500 btn">
+    <div className="h-screen bg-slate-600 ">
       <Card />
     </div>
   );
